@@ -9,3 +9,6 @@ Committed to helping companies advance by helping to develop strategic plans bas
 juhudaya/juhudaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+my vizz Tableau : https://public.tableau.com/app/profile/juhudaya
